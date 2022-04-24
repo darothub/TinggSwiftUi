@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Akshay Grover",
+        "position": "Group CEO",
+        "picture": "https://www.cellulant.io/wp-content/uploads/2021/06/Akshay-Grover.jpg",
+        "description": "Akshay Grover is the Goup CEO at Cellulant with the responsibility for driving the strategic direction and expansion of the business across Africa.\n\nPrior to Cellulant, Akshay held multiple C-level positions at iSON, a diversified group with a presence in 30+ countries and 25000+ employees in the MEA and Asia Pacific region. During his stint at iSON, Akshay led the restructuring of its technology business, enabled multiple rounds of private equity capital raise for the BPO business and drove the expansion of the group into the ME, North and South Africa regions via multiple acquisitions. Akshay also played a vital role in evangelizing iSON tower – a newly created digital infrastructure platform in the south east Asia region. In his capacity as the Chief Investment Officer for iSON – Akshay co-led the creation, definition and execution of the investment strategy of ISONs technology investment arm – ‘i3’.\n\nPrior to ISON, Akshay spent 10+ years in investment banking at Ernst & Young and leading investments at the USD4bn+ TMT investment arm of Dubai Holding. During this tenure he has closed transactions in excess of USD 5bn.\nA management graduate with specialization in Finance from one of India’s premier business schools, Akshay was selected by a leading credit rating agency as the ‘CRISIL Young Thought Leader’ and was identified amongst the top 15 ‘Leaders’ across the country by the Indian Institute of Management.",
+    },
+    {
+        "id": 2,
+        "name": "David Waithaka",
+        "position": "Chief Revenue Officer",
+        "picture": "https://www.cellulant.io/wp-content/uploads/2021/06/David-Waithaka.jpg",
+        "description": "David is a seasoned strategist and finance practitioner joining Cellulant from Syngenta E.A. He has been an integral part of managing Cellulant’s expansion into various markets across Africa. He joined the Cellulant Corporation in 2007 in Business Support Services then launched and led the Cellulant Zambia operations, building it to become the 3rd largest market within Cellulant’s multinational payment conglomerate. As Group Chief Business Officer, he is responsible for defining the commercial structure with customers while managing and executing new opportunities with existing & new customers.",
+    },
+    {
+        "id": 3,
+        "name": "Milkah Wachiuri",
+        "position": "Chief Growth Officer",
+        "picture": "https://www.cellulant.io/wp-content/uploads/2021/06/Milkah-Wachiuri.jpg",
+        "description": "Milkah has vast experience in finance and operations. She started her career at Deloitte as an auditor before joining Cellulant to start off the group finance function. In her role in finance she rose to CFO and in her tenure built out the group reporting framework and the global and country finance teams as well as maturing finance operations.\n\nShe provided project leadership and oversaw the business through 2 critical growth rounds of fundraising series B&C. She has led the Nigeria business as its COO and is now the CGO leading the growth team looking after the HR,Brand and Strategy teams. In this role, she is driving the next phase of organic and inorganic growth for the business.",
+    },
+    {
+        "id": 4,
+        "name": "Mohamed Faizal Hafiz",
+        "position": "Chief Product Officer",
+        "picture": "https://www.cellulant.io/wp-content/uploads/2021/06/Mohamed-Faizal-Hafiz.jpg",
+        "description": "Faizal is a seasoned technology practitioner with a strong background in Software Engineering alongside world-class expertise in high throughput transaction systems and new-age enterprise computing technologies.\nHe joined Cellulant Group shortly after the Kenyan subsidiary opened and oversaw both software development and implementation until 2017. He served as the Chief Technology Officer and today leads our full circle technology loop from product ideation, till service management, and everything in between, ensuring speed of execution, and the best quality products. Faizal is a Computer Science graduate from the University of Natal, South Africa.",
+    },
+    {
+        "id": 5,
+        "name": "Moses Abindabizemu",
+        "position": "Chief Marketing Officer",
+        "picture": "https://www.cellulant.io/wp-content/uploads/2021/06/Moses-Abindabizemu.jpg",
+        "description": "Moses is a passionate leader with over 16 years of leadership and management experience in the Financial Technology and Telecoms Sectors across Africa. He has led and coached Operations, Sales, Marketing, Mobile Money, Pricing and Data Analytics teams in multi-million dollar organizations within Volatile market environments.\n\nBefore joining Cellulant, Moses worked with Airtel Rwanda for 3 years overseeing Marketing & Airtel Money functions after the merger with Tigo that saw Airtel be the Largest telecom company in Rwanda with over 56% Customer market share and growing. He is excited about creating valuable enablers that help consumers achieve their long desired dreams. He is Impact Driven and derives delight from changing lives for the better.\n\nOver the years Moses has gained special experience in; – Mergers, Leadership and coaching of Sales and Marketing teams, pricing and business analytics, product design, development & Go-to-market excellence. Moses holds a Bachelor’s degree in Civil Engineering from Kyambogo University and Masters in International Business Administration (MIBA) specializing in Global Management from Paris ESLSCA Business School.",
+    },
+    {
+        "id": 6,
+        "name": "Sike Bamisebi",
+        "position": "Chief Business Officer",
+        "picture": "https://www.cellulant.io/wp-content/uploads/2021/06/Sike-Bamisebi-min.jpg",
+        "description": "Sike is an experienced CFO with over 17 years of comprehensive experience in all facets of business and financial operations. Adept at interfacing with key stakeholders and proposing plans to ensure the attainment of financial and strategic objectives. Well-versed in determining customer financial needs and developing “win-win” solutions. Able to optimize business performance through process improvement and restructuring various business operations.\n\nShe has worked as a Finance and Business professional in Accenture, Alcatel-Lucent (now Nokia), Turning Point (UK), Buckhickman (UK), Business Connexion, TSL, and currently Cellulant.\n\nShe is a graduate of Management and Accounting from Obafemi Awolowo University and holds a Masters’ degree in Business Administration from the Alliance Manchester Business School, UK. Sike is also a Fellow Chartered Accountant of the Association of Chartered Certified Accountants (FCCA), UK, and currently studies as a Doctorate researcher at the University of Bradford (United Kingdom).",
+    },
+    
+    {
+        "id": 7,
+        "name": "George Murage",
+        "position": "Chief Technology Officer",
+        "picture": "https://www.cellulant.io/wp-content/uploads/2021/06/George-Murage.jpg",
+        "description": "George is a seasoned IT veteran with 18 years’ experience in network engineering, service management, information security, cloud technologies and in scalable web architecture. George was instrumental in the design and delivery of East Africa’s first cloud services and in streamlining the engineering and technical operations of a major network operator that yielded superior customer service, reduced churn and delivered significant savings in CAPEX and OPEX. George is passionate about people and operational excellence and currently leads the technology operations team which has responsibility for the systems that power Cellulant’s payment services. He holds a bachelor’s degree in Electrical and Electronics Engineering from Jomo Kenyatta University and an MBA from Strathmore University. While not tinkering with technology, George is a cooking enthusiast whose zeal for the exquisite meal, has brought occasional misery to his friends and family who put up with his wanting culinary skills.",
+    },
+    
+]
+
